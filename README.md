@@ -13,7 +13,8 @@ Created this react app
 
 tablet
 
-     ![Screenshot 2023-01-16 070831](https://user-images.githubusercontent.com/49263947/212580891-de6209bd-8f4c-42e5-bd10-d17913a2d799.png)
+  ![Screenshot 2023-01-16 070831](https://user-images.githubusercontent.com/49263947/212580989-b57d3f67-6dd1-4c05-878d-9f5e882c9268.png)
+
      
  mobile
  
